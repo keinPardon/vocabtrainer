@@ -9,3 +9,8 @@ spaCy
 NLTK
 SpeechRecognition
 Pyttsx3
+streamlit-pills
+llama-index==0.9.7
+llama-hub==0.0.44
+langchain==0.0.305
+pypdf
